@@ -79,6 +79,7 @@ def main():
     save_model = True
 
     #RNN
+    #Set to false so default CNN is selected
     RNN = False
     N_STEPS = 28
     N_INPUTS = 28
